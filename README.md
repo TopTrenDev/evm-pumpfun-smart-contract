@@ -59,15 +59,6 @@ Feel free to reach out if you have any questions, need help, or would like to co
 - **Discord**: [toptrendev](https://discordapp.com/users/334173411402317846)  
 - **Email**: [victoryfox1116@gmail.com](mailto:victoryfox1116@gmail.com)  
 
-<div style="display:flex; justify-content:space-evenly">  
-  <a href="https://t.me/earthzeta" target="_blank"><img alt="Telegram"
-      src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
-  <a href="https://discordapp.com/users/339619501081362432" target="_blank"><img alt="Discord"
-      src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>  
-  <a href="mailto:johncriswick25@gmail.com" target="_blank"><img alt="Email"
-      src="https://img.shields.io/badge/Gmail-CE5753?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-</div>
-
 ---
 
 ## **🚀 Contributing**  
